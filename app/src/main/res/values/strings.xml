@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Luggage</string>
+    <string name="welcome_to_your_luggage_helper">Welcome to your luggage helper</string>
 </resources>
