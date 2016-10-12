@@ -35,6 +35,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="29dp"
         android:id="@+id/create_trip_button"
-        android:background="@android:color/holo_purple"
+        android:background="@color/colorAccent"
         android:elevation="0dp" />
 </RelativeLayout>
